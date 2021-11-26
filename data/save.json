@@ -1,0 +1,2598 @@
+[
+  {
+    "description": {
+      "name": "Architecture",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/bltb7608fce3c4e9282/architecture_logo_pos_100h.png?format=png&height=35&dpr=1",
+      "description": "LEGO® Architecture presents some of the iconic buildings of world architecture, all perfectly realized as LEGO models. From well-known buildings to more imaginative choices that still reflect architectural excellence, these will make a great addition to any desk, home or playroom.",
+      "link": "https://www.lego.com/en-us/themes/architecture"
+    },
+    "products": [
+      {
+        "name": "Taj Mahal",
+        "price": "$119.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/taj-mahal-21056"
+      },
+      {
+        "name": "Empire State Building",
+        "price": "$129.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/empire-state-building-21046"
+      },
+      {
+        "name": "Statue of Liberty",
+        "price": "$119.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/statue-of-liberty-21042"
+      },
+      {
+        "name": "The White House",
+        "price": "$99.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/the-white-house-21054"
+      },
+      {
+        "name": "Trafalgar Square",
+        "price": "$79.99",
+        "rating": "4.2",
+        "link": "https://www.lego.com/en-us/product/trafalgar-square-21045"
+      },
+      {
+        "name": "Dubai",
+        "price": "$59.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/dubai-21052"
+      },
+      {
+        "name": "New York City",
+        "price": "$59.99",
+        "rating": "4.2",
+        "link": "https://www.lego.com/en-us/product/new-york-city-21028"
+      },
+      {
+        "name": "Tokyo",
+        "price": "$59.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/tokyo-21051"
+      },
+      {
+        "name": "Paris",
+        "price": "$49.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/paris-21044"
+      },
+      {
+        "name": "London",
+        "price": "$39.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/london-21034"
+      },
+      {
+        "name": "San Francisco",
+        "price": "$49.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/san-francisco-21043"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Batman™",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt468285064eec41b6/batman1989_logo_300w.png?format=png&height=35&dpr=1",
+      "description": "Night has fallen on Gotham City™ and builders everywhere are ready for Batman sets. They can battle against the bad guys with their favorite Dark Knight.",
+      "link": "https://www.lego.com/en-us/themes/lego-batman-sets"
+    },
+    "products": [
+      {
+        "name": "LEGO® DC Batman™ Batmobile™ Tumbler",
+        "price": "$229.99",
+        "rating": "4.1",
+        "link": "https://www.lego.com/en-us/product/lego-dc-batman-batmobile-tumbler-76240"
+      },
+      {
+        "name": "Batcave™: The Riddler™ Face-off",
+        "price": "$79.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/batcave-the-riddler-face-off-76183"
+      },
+      {
+        "name": "Classic TV Series Batman™ Cowl",
+        "price": "$59.99",
+        "rating": "2.3",
+        "link": "https://www.lego.com/en-us/product/classic-tv-series-batman-cowl-76238"
+      },
+      {
+        "name": "LEGO® DC Batman™ Batmobile™ Tumbler: Scarecrow™ Showdown",
+        "price": "$39.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/lego-dc-batman-batmobile-tumbler-scarecrow-showdown-76239"
+      },
+      {
+        "name": "Batman™",
+        "price": "$16.99",
+        "rating": "4.2",
+        "link": "https://www.lego.com/en-us/product/batman-40386"
+      },
+      {
+        "name": "The Joker™",
+        "price": "$16.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/the-joker-40428"
+      },
+      {
+        "name": "Batman™ & Selina Kyle™ Motorcycle Pursuit",
+        "price": "$14.99",
+        "link": "https://www.lego.com/en-us/product/batman-selina-kyle-motorcycle-pursuit-76179"
+      },
+      {
+        "name": "1989 Batwing",
+        "price": "$199.99",
+        "rating": "4.2",
+        "link": "https://www.lego.com/en-us/product/1989-batwing-76161"
+      },
+      {
+        "name": "Batman™ Cowl",
+        "price": "$59.99",
+        "rating": "3.9",
+        "link": "https://www.lego.com/en-us/product/batman-cowl-76182"
+      },
+      {
+        "name": "Batman™ Classic TV Series Batmobile™",
+        "price": "$29.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/batman-classic-tv-series-batmobile-76188"
+      },
+      {
+        "name": "LEGO® DC Super Heroes Visual Dictionary",
+        "price": "$21.99",
+        "link": "https://www.lego.com/en-us/product/lego-dc-super-heroes-visual-dictionary-5005730"
+      },
+      {
+        "name": "THE BATMAN - BATMOBILE™",
+        "price": "$99.99",
+        "rating": "3.3",
+        "link": "https://www.lego.com/en-us/product/the-batman-batmobile-42127"
+      },
+      {
+        "name": "Batmobile™: The Penguin™ Chase",
+        "price": "$29.99",
+        "link": "https://www.lego.com/en-us/product/batmobile-the-penguin-chase-76181"
+      },
+      {
+        "name": "Batman™ vs. The Joker™: Batmobile™ Chase",
+        "price": "$29.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/batman-vs-the-joker-batmobile-chase-76180"
+      },
+      {
+        "name": "Batman™ vs. The Penguin™ & Harley Quinn™",
+        "price": "$14.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/batman-vs-the-penguin-harley-quinn-40453"
+      },
+      {
+        "name": "1989 Batmobile™",
+        "price": "$249.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/1989-batmobile-76139"
+      },
+      {
+        "name": "Mobile Bat Base",
+        "price": "$89.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/mobile-bat-base-76160"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "BOOST",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/bltc56480b396f7f12a/boost_logo_pos_300w.png?format=png&height=35&dpr=1",
+      "description": "LEGO® BOOST lets children create models with motors and sensors, and then bring their creations to life through simple, icon-based coding commands. The free LEGO BOOST tablet app includes easy step-by-step building instructions for creating and coding multifunctional models.",
+      "link": "https://www.lego.com/en-us/themes/boost"
+    },
+    "products": [
+      {
+        "name": "BOOST Creative Toolbox",
+        "price": "$159.99",
+        "rating": "3.5",
+        "link": "https://www.lego.com/en-us/product/boost-creative-toolbox-17101"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "BrickHeadz",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt117f545a76e30723/brickheadz_logo_pos_300w.png?format=png&height=35&dpr=1",
+      "description": "Collect, build and display these amazingly detailed, chunky super heroes, villains and more! Why not start assembling the full set today?",
+      "link": "https://www.lego.com/en-us/themes/brickheadz"
+    },
+    "products": [
+      {
+        "name": "Harry, Hermione, Ron & Hagrid™",
+        "price": "$24.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/harry-hermione-ron-hagrid-40495"
+      },
+      {
+        "name": "Scrooge McDuck, Huey, Dewey & Louie",
+        "price": "$24.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/scrooge-mcduck-huey-dewey-louie-40477"
+      },
+      {
+        "name": "Voldemort™, Nagini & Bellatrix",
+        "price": "$24.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/voldemort-nagini-bellatrix-40496"
+      },
+      {
+        "name": "Belle Bottom, Kevin and Bob",
+        "price": "$19.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/belle-bottom-kevin-and-bob-40421"
+      },
+      {
+        "name": "Chinese New Year Pandas",
+        "price": "$19.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/chinese-new-year-pandas-40466"
+      },
+      {
+        "name": "Gru, Stuart and Otto",
+        "price": "$19.99",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/gru-stuart-and-otto-40420"
+      },
+      {
+        "name": "Budgie",
+        "price": "$14.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/budgie-40443"
+      },
+      {
+        "name": "Dalmatian",
+        "price": "$14.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/dalmatian-40479"
+      },
+      {
+        "name": "German Shepherd",
+        "price": "$14.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/german-shepherd-40440"
+      },
+      {
+        "name": "Goldfish",
+        "price": "$14.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/goldfish-40442"
+      },
+      {
+        "name": "Shorthair Cats",
+        "price": "$14.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/shorthair-cats-40441"
+      },
+      {
+        "name": "Wedding Bride",
+        "price": "$12.99",
+        "rating": "4.2",
+        "link": "https://www.lego.com/en-us/product/wedding-bride-40383"
+      },
+      {
+        "name": "Wedding Groom",
+        "price": "$12.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/wedding-groom-40384"
+      },
+      {
+        "name": "Birthday Clown",
+        "price": "$9.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/birthday-clown-40348"
+      },
+      {
+        "name": "Daisy Duck",
+        "price": "$9.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/daisy-duck-40476"
+      },
+      {
+        "name": "Donald Duck",
+        "price": "$9.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/donald-duck-40377"
+      },
+      {
+        "name": "Frankenstein",
+        "price": "$9.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/frankenstein-40422"
+      },
+      {
+        "name": "Lady Liberty",
+        "price": "$9.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/lady-liberty-40367"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Brick Sketches™",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/bltdc40fda1f0d2f32c/brickSketches-logo-pos_300w.png?format=png&height=35&dpr=1",
+      "description": "Bring iconic characters from films and comics to life in a 3-D illustration created with LEGO® bricks. Built on a 12 x 16 base, these collectible, fun-to-build Brick Sketches are perfect displayed on their own or hanging on a wall.",
+      "link": "https://www.lego.com/en-us/themes/brick-sketches"
+    },
+    "products": [
+      {
+        "name": "Batman™",
+        "price": "$16.99",
+        "rating": "4.2",
+        "link": "https://www.lego.com/en-us/product/batman-40386"
+      },
+      {
+        "name": "First Order Stormtrooper™",
+        "price": "$16.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/first-order-stormtrooper-40391"
+      },
+      {
+        "name": "Mickey Mouse",
+        "price": "$16.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/mickey-mouse-40456"
+      },
+      {
+        "name": "Minnie Mouse",
+        "price": "$16.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/minnie-mouse-40457"
+      },
+      {
+        "name": "The Joker™",
+        "price": "$16.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/the-joker-40428"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "City",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt6e91a425cec33c6b/city_logo_pos_300w.png?format=png&height=35&dpr=1",
+      "description": "LEGO® City is a realistic LEGO world for your child to explore. Iconic vehicles and buildings form the backdrop to this bustling city, with everyday heroes catching bad guys and putting out fires. This is a world full of humor and charm that will really stimulate their creative imaginations.",
+      "link": "https://www.lego.com/en-us/themes/city"
+    },
+    "products": [
+      {
+        "name": "Fire Stunt Bike",
+        "price": "$7.99",
+        "link": "https://www.lego.com/en-us/product/fire-stunt-bike-60311"
+      },
+      {
+        "name": "Selfie Stunt Bike",
+        "price": "$7.99",
+        "link": "https://www.lego.com/en-us/product/selfie-stunt-bike-60309"
+      },
+      {
+        "name": "Wheelie Stunt Bike",
+        "price": "$7.99",
+        "link": "https://www.lego.com/en-us/product/wheelie-stunt-bike-60296"
+      },
+      {
+        "name": "Main Square",
+        "rating": "3.5",
+        "link": "https://www.lego.com/en-us/product/main-square-60271"
+      },
+      {
+        "name": "Wildlife Rescue Operation",
+        "price": "$89.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/wildlife-rescue-operation-60302"
+      },
+      {
+        "name": "Police Patrol Boat",
+        "price": "$59.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/police-patrol-boat-60277"
+      },
+      {
+        "name": "Air Race",
+        "price": "$39.99",
+        "rating": "2.1",
+        "link": "https://www.lego.com/en-us/product/air-race-60260"
+      },
+      {
+        "name": "Holiday Camper Van",
+        "price": "$19.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/holiday-camper-van-60283"
+      },
+      {
+        "name": "Road Plates",
+        "price": "$19.99",
+        "rating": "3",
+        "link": "https://www.lego.com/en-us/product/road-plates-60304"
+      },
+      {
+        "name": "Police MF Accessory Set",
+        "price": "$12.99",
+        "rating": "3.7",
+        "link": "https://www.lego.com/en-us/product/police-mf-accessory-set-40372"
+      },
+      {
+        "name": "Build Your Own Adventure: Catch the Crooks",
+        "price": "$24.99",
+        "link": "https://www.lego.com/en-us/product/build-your-own-adventure-catch-the-crooks-5006882"
+      },
+      {
+        "name": "LEGO® City Busy Word Book",
+        "price": "$14.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/lego-city-busy-word-book-5005731"
+      },
+      {
+        "name": "Passenger Train",
+        "price": "$159.99",
+        "rating": "4.1",
+        "link": "https://www.lego.com/en-us/product/passenger-train-60197"
+      },
+      {
+        "name": "Stunt Show Arena",
+        "price": "$99.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/stunt-show-arena-60295"
+      },
+      {
+        "name": "Stunt Show Truck",
+        "price": "$69.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/stunt-show-truck-60294"
+      },
+      {
+        "name": "Stunt Park",
+        "price": "$39.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/stunt-park-60293"
+      },
+      {
+        "name": "Stunt Competition",
+        "price": "$29.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/stunt-competition-60299"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Classic",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/bltf466b935ec0e8c92/classic_logo_pos_100h.png?format=png&height=35&dpr=1",
+      "description": "Develop children’s creativity with LEGO® Classic. Sets contain ideas to help them get started, while special pieces alongside classic LEGO bricks inspire even further. And because LEGO Classic spans so many different age groups, there’s fun for all the family and imagination for every generation.",
+      "link": "https://www.lego.com/en-us/themes/classic"
+    },
+    "products": [
+      {
+        "name": "Bricks and Animals",
+        "price": "$59.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/bricks-and-animals-11011"
+      },
+      {
+        "name": "Around the World",
+        "price": "$49.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/around-the-world-11015"
+      },
+      {
+        "name": "Creative Building Bricks",
+        "price": "$49.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/creative-building-bricks-11016"
+      },
+      {
+        "name": "Gray Baseplate",
+        "price": "$14.99",
+        "rating": "4.1",
+        "link": "https://www.lego.com/en-us/product/gray-baseplate-10701"
+      },
+      {
+        "name": "Blue Baseplate",
+        "price": "$7.99",
+        "rating": "4.1",
+        "link": "https://www.lego.com/en-us/product/blue-baseplate-10714"
+      },
+      {
+        "name": "Green Baseplate",
+        "price": "$7.99",
+        "rating": "2.6",
+        "link": "https://www.lego.com/en-us/product/green-baseplate-10700"
+      },
+      {
+        "name": "White Baseplate",
+        "price": "$7.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/white-baseplate-11010"
+      },
+      {
+        "name": "Bricks Bricks Plates",
+        "price": "$69.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/bricks-bricks-plates-11717"
+      },
+      {
+        "name": "LEGO® Large Creative Brick Box",
+        "price": "$59.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/lego-large-creative-brick-box-10698"
+      },
+      {
+        "name": "Bricks and Wheels",
+        "price": "$39.99",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/bricks-and-wheels-11014"
+      },
+      {
+        "name": "LEGO® Medium Creative Brick Box",
+        "price": "$34.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/lego-medium-creative-brick-box-10696"
+      },
+      {
+        "name": "Creative Transparent Bricks",
+        "price": "$29.99",
+        "rating": "3.4",
+        "link": "https://www.lego.com/en-us/product/creative-transparent-bricks-11013"
+      },
+      {
+        "name": "Bricks and Houses",
+        "price": "$19.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/bricks-and-houses-11008"
+      },
+      {
+        "name": "Creative Suitcase",
+        "price": "$19.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/creative-suitcase-10713"
+      },
+      {
+        "name": "LEGO® Creative Bricks",
+        "price": "$16.99",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/lego-creative-bricks-10692"
+      },
+      {
+        "name": "Creative Blue Bricks",
+        "price": "$4.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/creative-blue-bricks-11006"
+      },
+      {
+        "name": "Creative White Bricks",
+        "price": "$4.99",
+        "rating": "3.5",
+        "link": "https://www.lego.com/en-us/product/creative-white-bricks-11012"
+      },
+      {
+        "name": "Brick Separator",
+        "price": "$2.49",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/brick-separator-630"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Creator 3-in-1",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt53e5eeb1dac31640/creator3in1_logo_pos_100h.png?format=png&height=35&dpr=1",
+      "description": "The LEGO® Creator series lets your child experiment with houses, cars, planes and creatures. Sets can be rebuilt three ways, so there’s no limit to the fun. With LEGO Creator 3-in-1 sets, your child also gets to choose between 3 exciting builds for even more build and play fun.",
+      "link": "https://www.lego.com/en-us/themes/creator-3-in-1"
+    },
+    "products": [
+      {
+        "name": "Medieval Castle",
+        "price": "$99.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/medieval-castle-31120"
+      },
+      {
+        "name": "Ferris Wheel",
+        "price": "$79.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/ferris-wheel-31119"
+      },
+      {
+        "name": "Crocodile",
+        "price": "$29.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/crocodile-31121"
+      },
+      {
+        "name": "Pirate Ship",
+        "price": "$99.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/pirate-ship-31109"
+      },
+      {
+        "name": "Caravan Family Holiday",
+        "price": "$69.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/caravan-family-holiday-31108"
+      },
+      {
+        "name": "Surfer Beach House",
+        "price": "$49.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/surfer-beach-house-31118"
+      },
+      {
+        "name": "Space Shuttle Adventure",
+        "price": "$39.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/space-shuttle-adventure-31117"
+      },
+      {
+        "name": "Fish Tank",
+        "price": "$29.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/fish-tank-31122"
+      },
+      {
+        "name": "Safari Wildlife Tree House",
+        "price": "$29.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/safari-wildlife-tree-house-31116"
+      },
+      {
+        "name": "Space Mining Mech",
+        "price": "$24.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/space-mining-mech-31115"
+      },
+      {
+        "name": "Race Car Transporter",
+        "price": "$19.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/race-car-transporter-31113"
+      },
+      {
+        "name": "Superbike",
+        "price": "$19.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/superbike-31114"
+      },
+      {
+        "name": "Deep Sea Creatures",
+        "price": "$14.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/deep-sea-creatures-31088"
+      },
+      {
+        "name": "Mighty Dinosaurs",
+        "price": "$14.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/mighty-dinosaurs-31058"
+      },
+      {
+        "name": "Wild Lion",
+        "price": "$14.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/wild-lion-31112"
+      },
+      {
+        "name": "Cyber Drone",
+        "price": "$9.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/cyber-drone-31111"
+      },
+      {
+        "name": "Sports Car",
+        "price": "$9.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/sports-car-31100"
+      },
+      {
+        "name": "Townhouse Pet Shop & Café",
+        "price": "$79.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/townhouse-pet-shop-cafe-31097"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Creator Expert",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt191709081a9206ae/creator_expert_logo_pos_100h.png?format=png&height=35&dpr=1",
+      "description": "Are you ready for the ultimate LEGO® building challenge? Our advanced LEGO Creator Expert series includes collectable Modular Houses, Cars, World Buildings, Fairgrounds and Seasonal Sets - and guarantee hours of building enjoyment with every set.",
+      "link": "https://www.lego.com/en-us/themes/creator-expert"
+    },
+    "products": [
+      {
+        "name": "Colosseum",
+        "price": "$549.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/colosseum-10276"
+      },
+      {
+        "name": "Camp Nou – FC Barcelona",
+        "price": "$349.99",
+        "rating": "3.8",
+        "link": "https://www.lego.com/en-us/product/camp-nou-fc-barcelona-10284"
+      },
+      {
+        "name": "Volkswagen T2 Camper Van",
+        "price": "$179.99",
+        "rating": "3",
+        "link": "https://www.lego.com/en-us/product/volkswagen-t2-camper-van-10279"
+      },
+      {
+        "name": "The Friends Apartments",
+        "price": "$149.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/the-friends-apartments-10292"
+      },
+      {
+        "name": "Pickup Truck",
+        "price": "$129.99",
+        "rating": "3.9",
+        "link": "https://www.lego.com/en-us/product/pickup-truck-10290"
+      },
+      {
+        "name": "Queer Eye – The Fab 5 Loft",
+        "price": "$99.99",
+        "rating": "3.3",
+        "link": "https://www.lego.com/en-us/product/queer-eye-the-fab-5-loft-10291"
+      },
+      {
+        "name": "NASA Space Shuttle Discovery",
+        "price": "$199.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/nasa-space-shuttle-discovery-10283"
+      },
+      {
+        "name": "Police Station",
+        "price": "$199.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/police-station-10278"
+      },
+      {
+        "name": "Porsche 911",
+        "price": "$149.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/porsche-911-10295"
+      },
+      {
+        "name": "adidas Originals Superstar",
+        "price": "$79.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/adidas-originals-superstar-10282"
+      },
+      {
+        "name": "James Bond™ Aston Martin DB5",
+        "price": "$149.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/james-bond-aston-martin-db5-10262"
+      },
+      {
+        "name": "London Bus",
+        "price": "$139.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/london-bus-10258"
+      },
+      {
+        "name": "Old Trafford - Manchester United",
+        "price": "$299.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/old-trafford-manchester-united-10272"
+      },
+      {
+        "name": "Assembly Square",
+        "price": "$279.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/assembly-square-10255"
+      },
+      {
+        "name": "Haunted House",
+        "price": "$249.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/haunted-house-10273"
+      },
+      {
+        "name": "Bookshop",
+        "price": "$179.99",
+        "rating": "4.1",
+        "link": "https://www.lego.com/en-us/product/bookshop-10270"
+      },
+      {
+        "name": "Ford Mustang",
+        "price": "$149.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/ford-mustang-10265"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "DC",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/bltbb8c4c51dc7d5c5b/DC_logo_yellow_300w.png?format=png&height=35&dpr=1",
+      "description": "DC Universe™ lets your child play, invent and create with a colorful world of superheroes. With these play sets your child can build famous scenes and enjoy the role play between all the heroes and villains. Every option brings fun and lots of learning.",
+      "link": "https://www.lego.com/en-us/themes/dc"
+    },
+    "products": [
+
+    ]
+  },
+  {
+    "description": {
+      "name": "Disney™",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt26c7cef86a1b134d/disney_logo_pos_300w.png?format=png&height=35&dpr=1",
+      "description": "LEGO® | Disney favorites such as Disney's Moana or Elsa as well as princess characters like Cinderella, Ariel, and Rapunzel will come to life as your child recreates romance, adventure, and heroism. LEGO | Disney has all the elements such as castles, towers, a carriage, treasure chests, gateways, and more for your child to play out these classic stories and inspire them to build their own fairytales.",
+      "link": "https://www.lego.com/en-us/themes/disney"
+    },
+    "products": [
+      {
+        "name": "Scrooge McDuck, Huey, Dewey & Louie",
+        "price": "$24.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/scrooge-mcduck-huey-dewey-louie-40477"
+      },
+      {
+        "name": "Mickey Mouse",
+        "price": "$16.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/mickey-mouse-40456"
+      },
+      {
+        "name": "Minnie Mouse",
+        "price": "$16.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/minnie-mouse-40457"
+      },
+      {
+        "name": "Daisy Duck",
+        "price": "$9.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/daisy-duck-40476"
+      },
+      {
+        "name": "Donald Duck",
+        "price": "$9.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/donald-duck-40377"
+      },
+      {
+        "name": "Winnie the Pooh",
+        "price": "$99.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/winnie-the-pooh-21326"
+      },
+      {
+        "name": "The Ice Castle",
+        "price": "$199.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/the-ice-castle-43197"
+      },
+      {
+        "name": "Disney's Mickey Mouse",
+        "price": "$119.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/disney-s-mickey-mouse-31202"
+      },
+      {
+        "name": "Boun's Boat",
+        "price": "$49.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/boun-s-boat-43185"
+      },
+      {
+        "name": "Bruni the Salamander Buildable Character",
+        "price": "$12.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/bruni-the-salamander-buildable-character-43186"
+      },
+      {
+        "name": "The Madrigal House",
+        "price": "$49.99",
+        "link": "https://www.lego.com/en-us/product/the-madrigal-house-43202"
+      },
+      {
+        "name": "Antonio's Magical Door",
+        "price": "$19.99",
+        "link": "https://www.lego.com/en-us/product/antonio-s-magical-door-43200"
+      },
+      {
+        "name": "Isabela's Magical Door",
+        "price": "$19.99",
+        "link": "https://www.lego.com/en-us/product/isabela-s-magical-door-43201"
+      },
+      {
+        "name": "Meet Moana",
+        "price": "$7.99",
+        "link": "https://www.lego.com/en-us/product/meet-moana-5006850"
+      },
+      {
+        "name": "Daisy Duck Key Chain",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/daisy-duck-keyring-854112"
+      },
+      {
+        "name": "Donald Duck Key Chain",
+        "price": "$5.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/donald-duck-keyring-854111"
+      },
+      {
+        "name": "LEGO® ǀ Disney Frozen 2 Anna Key Chain",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/lego-ǀ-disney-frozen-2-anna-keyring-853969"
+      },
+      {
+        "name": "LEGO® ǀ Disney Frozen 2 Olaf Key Chain",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/lego-ǀ-disney-frozen-2-olaf-keyring-853970"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Disney Mickey and Friends",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt3dac5157bc106e92/mickeyandfriends-logo-pos_100h.png?format=png&height=35&dpr=1",
+      "description": "Give youngsters age 4+ a magical start to building with age-appropriate sets that let them build with aspirational, iconic characters and real-life scenes that explore their many passions for vehicles, animals and real-life adventures.",
+      "link": "https://www.lego.com/en-us/themes/mickey-mouse"
+    },
+    "products": [
+      {
+        "name": "Mickey & Friends Fire Truck & Station",
+        "price": "$39.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/mickey-friends-fire-truck-station-10776"
+      },
+      {
+        "name": "Mickey Mouse & Donald Duck's Farm",
+        "price": "$29.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/mickey-mouse-donald-duck-s-farm-10775"
+      },
+      {
+        "name": "Mickey Mouse & Minnie Mouse's Space Rocket",
+        "price": "$19.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/mickey-mouse-minnie-mouse-s-space-rocket-10774"
+      },
+      {
+        "name": "Minnie Mouse's Ice Cream Shop",
+        "price": "$19.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/minnie-mouse-s-ice-cream-shop-10773"
+      },
+      {
+        "name": "Mickey Mouse's Propeller Plane",
+        "price": "$9.99",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/mickey-mouse-s-propeller-plane-10772"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "DOTS",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/bltc883ecc873e628a9/DOTS-2021-D-logo-pos-300w.png?format=png&height=35&dpr=1",
+      "description": "LEGO® DOTS gives kids a canvas to be bold and never stop creating. They can design fun and funky bracelets that show their personality or create customized home décor items like pencil holders and picture frames, all using colorful designs and unique decorated tiles.",
+      "link": "https://www.lego.com/en-us/themes/dots"
+    },
+    "products": [
+      {
+        "name": "Multi Pack - Summer Vibes",
+        "price": "$29.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/multi-pack-summer-vibes-41937"
+      },
+      {
+        "name": "Bracelet Mega Pack",
+        "price": "$24.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/bracelet-mega-pack-41913"
+      },
+      {
+        "name": "Gel Pen 6 Pack",
+        "price": "$19.99",
+        "link": "https://www.lego.com/en-us/product/gel-pen-6-pack-5006275"
+      },
+      {
+        "name": "Lots of DOTS",
+        "price": "$19.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/lots-of-dots-41935"
+      },
+      {
+        "name": "Bag Tag Dragon",
+        "price": "$6.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/bag-tag-dragon-41939"
+      },
+      {
+        "name": "Bag Tag Leopard",
+        "price": "$6.99",
+        "link": "https://www.lego.com/en-us/product/bag-tag-leopard-41929"
+      },
+      {
+        "name": "Bag Tag Narwhal",
+        "price": "$6.99",
+        "link": "https://www.lego.com/en-us/product/bag-tag-narwhal-41928"
+      },
+      {
+        "name": "Bag Tag Panda",
+        "price": "$6.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/bag-tag-panda-41930"
+      },
+      {
+        "name": "Adventure Bracelets",
+        "price": "$5.99",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/adventure-bracelets-41918"
+      },
+      {
+        "name": "Mermaid Vibes Bracelets",
+        "price": "$5.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/mermaid-vibes-bracelets-41909"
+      },
+      {
+        "name": "Monster Bracelets",
+        "price": "$5.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/monster-bracelets-41923"
+      },
+      {
+        "name": "Starlight Bracelets",
+        "price": "$5.99",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/starlight-bracelets-41934"
+      },
+      {
+        "name": "Cool Cactus Bracelet",
+        "price": "$4.99",
+        "link": "https://www.lego.com/en-us/product/cool-cactus-bracelet-41922"
+      },
+      {
+        "name": "Music Bracelet",
+        "price": "$4.99",
+        "link": "https://www.lego.com/en-us/product/music-bracelet-41933"
+      },
+      {
+        "name": "Power Bracelet",
+        "price": "$4.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/power-bracelet-41919"
+      },
+      {
+        "name": "Extra DOTS - Series 3",
+        "price": "$3.99",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/extra-dots-series-3-41921"
+      },
+      {
+        "name": "Extra DOTS - Series 4",
+        "price": "$3.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/extra-dots-series-4-41931"
+      },
+      {
+        "name": "Extra DOTS - Series 5",
+        "price": "$3.99",
+        "rating": "3",
+        "link": "https://www.lego.com/en-us/product/extra-dots-series-5-41932"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "DUPLO®",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt38afeb5d619591c8/duplo_logo_pos_300w.png?format=png&height=35&dpr=1",
+      "description": "For 50 years, we have been introducing DUPLO® sets to little builders with big imaginations.",
+      "link": "https://www.lego.com/en-us/themes/duplo"
+    },
+    "products": [
+      {
+        "name": "LEGO® Education My XL World",
+        "price": "$244.95",
+        "link": "https://www.lego.com/en-us/product/lego-education-my-xl-world-45028"
+      },
+      {
+        "name": "Tech Machines",
+        "price": "$209.95",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/tech-machines-45002"
+      },
+      {
+        "name": "STEAM Park",
+        "price": "$179.95",
+        "link": "https://www.lego.com/en-us/product/steam-park-45024"
+      },
+      {
+        "name": "Amusement Park",
+        "price": "$99.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/amusement-park-10956"
+      },
+      {
+        "name": "Happy Childhood Moments",
+        "price": "$99.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/happy-childhood-moments-10943"
+      },
+      {
+        "name": "Creative Birthday Party",
+        "price": "$59.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/creative-birthday-party-10958"
+      },
+      {
+        "name": "Backpack - Monkey",
+        "price": "$39.99",
+        "link": "https://www.lego.com/en-us/product/backpack-monkey-5006495"
+      },
+      {
+        "name": "Backpack - Panda",
+        "price": "$39.99",
+        "link": "https://www.lego.com/en-us/product/backpack-panda-5006498"
+      },
+      {
+        "name": "DUPLO Photo Frame",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/duplo-photo-frame-40269"
+      },
+      {
+        "name": "Tower Crane & Construction",
+        "price": "$129.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/tower-crane-construction-10933"
+      },
+      {
+        "name": "Cargo Train",
+        "price": "$119.99",
+        "rating": "4.2",
+        "link": "https://www.lego.com/en-us/product/cargo-train-10875"
+      },
+      {
+        "name": "Parking Garage and Car Wash",
+        "price": "$99.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/parking-garage-and-car-wash-10948"
+      },
+      {
+        "name": "Barn, Tractor & Farm Animal Care",
+        "price": "$59.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/barn-tractor-farm-animal-care-10952"
+      },
+      {
+        "name": "Creative animals",
+        "price": "$59.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/creative-animals-10934"
+      },
+      {
+        "name": "Modular Playhouse",
+        "price": "$59.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/modular-playhouse-10929"
+      },
+      {
+        "name": "Steam Train",
+        "price": "$59.99",
+        "rating": "3.4",
+        "link": "https://www.lego.com/en-us/product/steam-train-10874"
+      },
+      {
+        "name": "Deluxe Brick Box",
+        "price": "$49.99",
+        "rating": "3.7",
+        "link": "https://www.lego.com/en-us/product/deluxe-brick-box-10914"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Friends",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt4e0d0dd3446dbf25/friends_logo_300w.png?format=png&height=35&dpr=1",
+      "description": "The LEGO® Friends world is one that your child will love. It combines the classic LEGO building experience with the opportunity to play out everyday life scenarios. LEGO Friends is about five best friends living in a colorful universe with cute animals and details which your child will love.",
+      "link": "https://www.lego.com/en-us/themes/friends"
+    },
+    "products": [
+      {
+        "name": "Heartlake City Grand Hotel",
+        "price": "$99.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/heartlake-city-grand-hotel-41684"
+      },
+      {
+        "name": "Magical Funfair Roller Coaster",
+        "price": "$99.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/magical-funfair-roller-coaster-41685"
+      },
+      {
+        "name": "Forest Horseback Riding Center",
+        "price": "$69.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/forest-horseback-riding-center-41683"
+      },
+      {
+        "name": "Surfer Beachfront",
+        "price": "$69.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/surfer-beachfront-41693"
+      },
+      {
+        "name": "Heartlake City School",
+        "price": "$59.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/heartlake-city-school-41682"
+      },
+      {
+        "name": "Magical Caravan",
+        "price": "$39.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/magical-caravan-41688"
+      },
+      {
+        "name": "Heartlake City Organic Café",
+        "price": "$29.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/heartlake-city-organic-cafe-41444"
+      },
+      {
+        "name": "Olivia's Electric Car",
+        "price": "$14.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/olivia-s-electric-car-41443"
+      },
+      {
+        "name": "Friends Club House Pod",
+        "price": "$6.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/friends-club-house-pod-5005236"
+      },
+      {
+        "name": "Heartlake City Shopping Mall",
+        "price": "$99.99",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/heartlake-city-shopping-mall-41450"
+      },
+      {
+        "name": "Jungle Rescue Base",
+        "price": "$79.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/jungle-rescue-base-41424"
+      },
+      {
+        "name": "Andrea's Family House",
+        "price": "$69.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/andrea-s-family-house-41449"
+      },
+      {
+        "name": "Friendship Bus",
+        "price": "$69.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/friendship-bus-41395"
+      },
+      {
+        "name": "Alpaca Mountain Jungle Rescue",
+        "price": "$59.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/alpaca-mountain-jungle-rescue-41432"
+      },
+      {
+        "name": "Magical Ferris Wheel and Slide",
+        "price": "$59.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/magical-ferris-wheel-and-slide-41689"
+      },
+      {
+        "name": "Forest Camper Van and Sailboat",
+        "price": "$49.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/forest-camper-van-and-sailboat-41681"
+      },
+      {
+        "name": "Heartlake City Movie Theater",
+        "price": "$49.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/heartlake-city-movie-theater-41448"
+      },
+      {
+        "name": "Forest House",
+        "price": "$29.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/forest-house-41679"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Frozen",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/bltdfcb3eb54f02b421/frozen-2021-logo-300w.png?format=png&height=35&dpr=1",
+      "description": "Prepare for the adventure! With LEGO® | Disney Frozen, you can recreate movie moments from Disney’s epic Frozen films and let imagination come to life! The Magic Is in Your Hands! The LEGO | Disney Frozen range of buildable toys features the lovable and inspiring characters from the Frozen movie, as well as details, features and functions that will spark kids’ imagination.",
+      "link": "https://www.lego.com/en-us/themes/disney-frozen-2"
+    },
+    "products": [
+      {
+        "name": "The Ice Castle",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/the-ice-castle-43197"
+      },
+      {
+        "name": "Bruni the Salamander Buildable Character",
+        "price": "$12.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/bruni-the-salamander-buildable-character-43186"
+      },
+      {
+        "name": "LEGO® ǀ Disney Frozen 2 Anna Key Chain",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/lego-ǀ-disney-frozen-2-anna-keyring-853969"
+      },
+      {
+        "name": "LEGO® ǀ Disney Frozen 2 Olaf Key Chain",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/lego-ǀ-disney-frozen-2-olaf-keyring-853970"
+      },
+      {
+        "name": "Frozen Ice Castle",
+        "price": "$49.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/frozen-ice-castle-10899"
+      },
+      {
+        "name": "Anna and Elsa's Frozen Wonderland",
+        "price": "$39.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/anna-and-elsa-s-frozen-wonderland-43194"
+      },
+      {
+        "name": "Elsa's Jewelry Box Creation",
+        "price": "$39.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/elsa-s-jewelry-box-creation-41168"
+      },
+      {
+        "name": "Elsa's Wagon Adventure",
+        "price": "$29.99",
+        "rating": "3.3",
+        "link": "https://www.lego.com/en-us/product/elsa-s-wagon-adventure-41166"
+      },
+      {
+        "name": "Anna and Elsa’s Storybook Adventures",
+        "price": "$19.99",
+        "rating": "3.9",
+        "link": "https://www.lego.com/en-us/product/anna-and-elsa-s-storybook-adventures-43175"
+      },
+      {
+        "name": "Elsa and Olaf's Tea Party",
+        "price": "$19.99",
+        "rating": "3",
+        "link": "https://www.lego.com/en-us/product/elsa-and-olaf-s-tea-party-10920"
+      },
+      {
+        "name": "Elsa and the Nokk Storybook Adventures",
+        "price": "$19.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/elsa-and-the-nokk-storybook-adventures-43189"
+      },
+      {
+        "name": "Arendelle Castle Village",
+        "price": "$79.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/arendelle-castle-village-41167"
+      },
+      {
+        "name": "Elsa's Magical Ice Palace",
+        "price": "$79.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/elsa-s-magical-ice-palace-43172"
+      },
+      {
+        "name": "Anna's Canoe Expedition",
+        "price": "$19.99",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/anna-s-canoe-expedition-41165"
+      },
+      {
+        "name": "LEGO® ǀ Disney Frozen 2 Elsa Key Chain",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/lego-ǀ-disney-frozen-2-elsa-keyring-853968"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Harry Potter™",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt67d237e086fea2c4/harryPotter_logo_gold_neg_300w.png?format=png&height=35&dpr=1",
+      "description": "Discover a world of wizards, witches and magical adventures to build at home. LEGO® Harry Potter™ sets bring the spellbinding charm of the movies, characters and places to life.",
+      "link": "https://www.lego.com/en-us/themes/harry-potter"
+    },
+    "products": [
+      {
+        "name": "Harry, Hermione, Ron & Hagrid™",
+        "price": "$24.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/harry-hermione-ron-hagrid-40495"
+      },
+      {
+        "name": "Voldemort™, Nagini & Bellatrix",
+        "price": "$24.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/voldemort-nagini-bellatrix-40496"
+      },
+      {
+        "name": "Hogwarts™ Castle",
+        "price": "$399.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/hogwarts-castle-71043"
+      },
+      {
+        "name": "Harry Potter & Hermione Granger™",
+        "price": "$119.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/harry-potter-hermione-granger-76393"
+      },
+      {
+        "name": "Hogsmeade™ Village Visit",
+        "price": "$79.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/hogsmeade-village-visit-76388"
+      },
+      {
+        "name": "Hogwarts™ Wizard’s Chess",
+        "price": "$59.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/hogwarts-wizard-s-chess-76392"
+      },
+      {
+        "name": "Fawkes, Dumbledore’s Phoenix",
+        "price": "$39.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/fawkes-dumbledore-s-phoenix-76394"
+      },
+      {
+        "name": "Hogwarts™: Fluffy Encounter",
+        "price": "$39.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/hogwarts-fluffy-encounter-76387"
+      },
+      {
+        "name": "Hogwarts™ Moment: Herbology Class",
+        "price": "$29.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/hogwarts-moment-herbology-class-76384"
+      },
+      {
+        "name": "Hogwarts™ Moment: Potions Class",
+        "price": "$29.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/hogwarts-moment-potions-class-76383"
+      },
+      {
+        "name": "Hogwarts™ Moment: Transfiguration Class",
+        "price": "$29.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/hogwarts-moment-transfiguration-class-76382"
+      },
+      {
+        "name": "Hogwarts™: First Flying Lesson",
+        "price": "$29.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/hogwarts-first-flying-lesson-76395"
+      },
+      {
+        "name": "Hogwarts™ Students Acc. Set",
+        "price": "$14.99",
+        "rating": "3.9",
+        "link": "https://www.lego.com/en-us/product/hogwarts-students-acc-set-40419"
+      },
+      {
+        "name": "Magical Treasury",
+        "price": "$21.99",
+        "link": "https://www.lego.com/en-us/product/magical-treasury-5006880"
+      },
+      {
+        "name": "Harry Potter™ Key Chain",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/harry-potter-keyring-854114"
+      },
+      {
+        "name": "Hermione Key Chain",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/hermione-keyring-854115"
+      },
+      {
+        "name": "Ron Key Chain",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/ron-keyring-854116"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Ideas",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/bltb9fbb1403dea3939/ideas_logo_neg_300w.png?format=png&height=35&dpr=1",
+      "description": "LEGO® Ideas products have been inspired and voted for by LEGO fans. They include original concepts such as the Research Institute, and Exo Suit, plus sets inspired by films, like Back To The Future’s DeLorean time machine or Ghostbusters™ Ecto-1.",
+      "link": "https://www.lego.com/en-us/themes/ideas"
+    },
+    "products": [
+      {
+        "name": "LEGO® Ideas Fender® Stratocaster™",
+        "price": "$99.99",
+        "rating": "4.1",
+        "link": "https://www.lego.com/en-us/product/lego-ideas-fender-stratocaster-21329"
+      },
+      {
+        "name": "Seinfeld",
+        "price": "$79.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/seinfeld-21328"
+      },
+      {
+        "name": "Winnie the Pooh",
+        "price": "$99.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/winnie-the-pooh-21326"
+      },
+      {
+        "name": "Grand Piano",
+        "price": "$349.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/grand-piano-21323"
+      },
+      {
+        "name": "Tree House",
+        "price": "$199.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/tree-house-21318"
+      },
+      {
+        "name": "123 Sesame Street",
+        "price": "$119.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/123-sesame-street-21324"
+      },
+      {
+        "name": "LEGO® NASA Apollo Saturn V",
+        "price": "$119.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/lego-nasa-apollo-saturn-v-92176"
+      },
+      {
+        "name": "International Space Station",
+        "price": "$69.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/international-space-station-21321"
+      },
+      {
+        "name": "Central Perk",
+        "price": "$59.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/central-perk-21319"
+      },
+      {
+        "name": "Ross Key Chain",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/ross-keyring-854117"
+      },
+      {
+        "name": "LEGO® Ideas Home Alone",
+        "price": "$249.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/lego-ideas-home-alone-21330"
+      },
+      {
+        "name": "Medieval Blacksmith",
+        "price": "$149.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/medieval-blacksmith-21325"
+      },
+      {
+        "name": "Ship in a Bottle",
+        "price": "$69.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/ship-in-a-bottle-92177"
+      },
+      {
+        "name": "Dinosaur Fossils",
+        "price": "$59.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/dinosaur-fossils-21320"
+      },
+      {
+        "name": "Typewriter",
+        "price": "$199.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/typewriter-21327"
+      },
+      {
+        "name": "Pirates of Barracuda Bay",
+        "price": "$199.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/pirates-of-barracuda-bay-21322"
+      },
+      {
+        "name": "Joey Key Chain",
+        "price": "$5.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/joey-keyring-854119"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Jurassic World™",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt8350ad28bd46e464/jurassicWorld_logo_pos_300w.png?format=png&height=35&dpr=1",
+      "description": "There’s a dinosaur for every age with exciting LEGO® Jurassic World™ play sets.",
+      "link": "https://www.lego.com/en-us/themes/jurassic-world"
+    },
+    "products": [
+      {
+        "name": "Baryonyx Dinosaur Boat Escape",
+        "price": "$79.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/baryonyx-dinosaur-boat-escape-76942"
+      },
+      {
+        "name": "Carnotaurus Dinosaur Chase",
+        "price": "$49.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/carnotaurus-dinosaur-chase-76941"
+      },
+      {
+        "name": "Gallimimus and Pteranodon Breakout",
+        "price": "$49.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/gallimimus-and-pteranodon-breakout-75940"
+      },
+      {
+        "name": "Stygimoloch Dinosaur Escape",
+        "price": "$39.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/stygimoloch-dinosaur-escape-76939"
+      },
+      {
+        "name": "T. rex Dinosaur Fossil Exhibition",
+        "price": "$29.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/t-rex-dinosaur-fossil-exhibition-76940"
+      },
+      {
+        "name": "T. rex and Triceratops Dinosaur Breakout",
+        "price": "$29.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/t-rex-and-triceratops-dinosaur-breakout-10939"
+      },
+      {
+        "name": "Velociraptor: Biplane Rescue Mission​",
+        "price": "$29.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/velociraptor-biplane-rescue-mission-75942"
+      },
+      {
+        "name": "Dr. Wu's Lab: Baby Dinosaurs Breakout​",
+        "price": "$19.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/dr-wu-s-lab-baby-dinosaurs-breakout-75939"
+      },
+      {
+        "name": "Jurassic Park: T. rex Rampage",
+        "price": "$249.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/jurassic-park-t-rex-rampage-75936"
+      },
+      {
+        "name": "Indominus Rex vs. Ankylosaurus",
+        "price": "$99.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/indominus-rex-vs-ankylosaurus-75941"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "LEGO® Art",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt9e7167422ea02661/art-logo-neg_300w.png?format=png&height=35&dpr=1",
+      "description": "LEGO® Art sets offer adult builders an escape from everyday life as they deliver a special LEGO building experience for anyone with an interest in art, music or movies. From influential artists, well-known musicians and famous movie characters, collectible LEGO Art sets make perfect wall-art display pieces in the home or office. Every set comes with an information booklet, plus a complimentary Soundtrack for deeper immersion while building and rebuilding.",
+      "link": "https://www.lego.com/en-us/themes/art"
+    },
+    "products": [
+      {
+        "name": "World Map",
+        "price": "$249.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/world-map-31203"
+      },
+      {
+        "name": "Marvel Studios Iron Man",
+        "price": "$119.99",
+        "rating": "4.2",
+        "link": "https://www.lego.com/en-us/product/marvel-studios-iron-man-31199"
+      },
+      {
+        "name": "Disney's Mickey Mouse",
+        "price": "$119.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/disney-s-mickey-mouse-31202"
+      },
+      {
+        "name": "Art Project - Create Together",
+        "price": "$119.99",
+        "link": "https://www.lego.com/en-us/product/art-project-create-together-21226"
+      },
+      {
+        "name": "Paint Party 1,000-Piece Puzzle",
+        "price": "$17.99",
+        "link": "https://www.lego.com/en-us/product/paint-party-1-000-piece-puzzle-5006203"
+      },
+      {
+        "name": "Andy Warhol's Marilyn Monroe",
+        "price": "$119.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/andy-warhol-s-marilyn-monroe-31197"
+      },
+      {
+        "name": "Harry Potter™ Hogwarts™ Crests",
+        "price": "$119.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/harry-potter-hogwarts-crests-31201"
+      },
+      {
+        "name": "Star Wars™ The Sith™",
+        "price": "$119.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/star-wars-the-sith-31200"
+      },
+      {
+        "name": "The Beatles",
+        "price": "$119.99",
+        "rating": "3.5",
+        "link": "https://www.lego.com/en-us/product/the-beatles-31198"
+      },
+      {
+        "name": "Ice Cream Dream 1,000-Piece Puzzle",
+        "price": "$17.99",
+        "link": "https://www.lego.com/en-us/product/ice-cream-dream-1-000-piece-puzzle-5007068"
+      },
+      {
+        "name": "Minifigure 1,000-Piece Puzzle",
+        "price": "$17.99",
+        "link": "https://www.lego.com/en-us/product/minifigure-1-000-piece-puzzle-5007071"
+      },
+      {
+        "name": "Minifigure Faces 1,000-Piece Puzzle",
+        "price": "$17.99",
+        "link": "https://www.lego.com/en-us/product/minifigure-faces-1-000-piece-puzzle-5007070"
+      },
+      {
+        "name": "Rainbow Bricks 1,000-Piece Puzzle",
+        "price": "$17.99",
+        "link": "https://www.lego.com/en-us/product/rainbow-bricks-1-000-piece-puzzle-5007072"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "LEGO® Education",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt68f2ed272a239ba5/education_logo_pos_100h.png?format=png&height=35&dpr=1",
+      "description": "Traditionally developed for school settings, LEGO® Education solutions ignite students’ natural curiosity and help them develop essential 21st century skills.",
+      "link": "https://www.lego.com/en-us/themes/lego-education"
+    },
+    "products": [
+      {
+        "name": "LEGO® Education SPIKE™ Essential Set",
+        "price": "$274.95",
+        "link": "https://www.lego.com/en-us/product/lego-education-spike-essential-set-45345"
+      },
+      {
+        "name": "LEGO® Technic™ Small Hub",
+        "price": "$189.95",
+        "link": "https://www.lego.com/en-us/product/lego-technic-small-hub-45609"
+      },
+      {
+        "name": "LEGO® Technic™ Small Hub Battery",
+        "price": "$59.95",
+        "link": "https://www.lego.com/en-us/product/lego-technic-small-hub-battery-45612"
+      },
+      {
+        "name": "LEGO® Education My XL World",
+        "price": "$244.95",
+        "link": "https://www.lego.com/en-us/product/lego-education-my-xl-world-45028"
+      },
+      {
+        "name": "Tech Machines",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/tech-machines-45002"
+      },
+      {
+        "name": "STEAM Park",
+        "price": "$179.95",
+        "link": "https://www.lego.com/en-us/product/steam-park-45024"
+      },
+      {
+        "name": "StoryTales",
+        "price": "$134.95",
+        "link": "https://www.lego.com/en-us/product/storytales-45005"
+      },
+      {
+        "name": "LEGO® Education BricQ Motion Essential Set",
+        "price": "$99.99",
+        "link": "https://www.lego.com/en-us/product/lego-education-bricq-motion-essential-set-45401"
+      },
+      {
+        "name": "LEGO® Education BricQ Motion Prime Set",
+        "price": "$99.99",
+        "link": "https://www.lego.com/en-us/product/lego-education-bricq-motion-prime-set-45400"
+      },
+      {
+        "name": "LEGO® Education SPIKE™ Prime Set",
+        "price": "$339.95",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/lego-education-spike-prime-set-45678"
+      },
+      {
+        "name": "Coding Express",
+        "price": "$209.95",
+        "link": "https://www.lego.com/en-us/product/coding-express-45025"
+      },
+      {
+        "name": "Tubes",
+        "price": "$144.95",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/tubes-45026"
+      },
+      {
+        "name": "Build Me \"Emotions\"",
+        "price": "$79.95",
+        "link": "https://www.lego.com/en-us/product/build-me-emotions-45018"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "LEGO® Originals",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt04756ed3977f74dc/Originals-Home-201910-Black-Logo.png?format=png&height=35&dpr=1",
+      "description": "The ultimate collectible for LEGO fans. LEGO® Originals offer a new way to build, show and tell your story.",
+      "link": "https://www.lego.com/en-us/themes/lego-originals"
+    },
+    "products": [
+      {
+        "name": "LEGO® Wooden Minifigure",
+        "price": "$119.99",
+        "rating": "3.3",
+        "link": "https://www.lego.com/en-us/product/lego-wooden-minifigure-853967"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "LEGO® Super Mario™",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt2dc55864221c88f5/SuperMario-logo-pos_300w.png?format=png&height=35&dpr=1",
+      "description": "Bring your favorite characters to life with LEGO® Super Mario™. From Starter Courses to Expansion Sets, Power-Up Packs and Character Packs, build levels to make LEGO® Mario™ and LEGO® Luigi™ take on enemies and collect coins. Explore the LEGO Super Mario app for digital tools, play ideas and more.",
+      "link": "https://www.lego.com/en-us/themes/super-mario"
+    },
+    "products": [
+
+    ]
+  },
+  {
+    "description": {
+      "name": "Marvel",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt00cd302276575b75/marvel_logo_pos_300w.png?format=png&height=35&dpr=1",
+      "description": "Build something extraordinary and become your favorite hero with Marvel playsets!",
+      "link": "https://www.lego.com/en-us/themes/marvel"
+    },
+    "products": [
+
+    ]
+  },
+  {
+    "description": {
+      "name": "MINDSTORMS®",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt4dc3b511a7abb51e/mindstorms2020-logo_pos_100h.png?format=png&height=35&dpr=1",
+      "description": "Create and command robots that do what you want. Unleash the creative powers of LEGO® MINDSTORMS® EV3 to build robots that walk, talk, think and do anything you can imagine. Begin by building one of the five cool robot characters, and control it with your smart device or the included remote control.",
+      "link": "https://www.lego.com/en-us/themes/mindstorms"
+    },
+    "products": [
+      {
+        "name": "Robot Inventor",
+        "price": "$359.99",
+        "rating": "3.5",
+        "link": "https://www.lego.com/en-us/product/robot-inventor-51515"
+      },
+      {
+        "name": "EV3 Ultrasonic Sensor",
+        "price": "$39.95",
+        "rating": "3.5",
+        "link": "https://www.lego.com/en-us/product/ev3-ultrasonic-sensor-45504"
+      },
+      {
+        "name": "Transformer 10V DC",
+        "price": "$34.95",
+        "rating": "3",
+        "link": "https://www.lego.com/en-us/product/transformer-10v-dc-45517"
+      },
+      {
+        "name": "EV3 Touch Sensor",
+        "price": "$29.95",
+        "link": "https://www.lego.com/en-us/product/ev3-touch-sensor-45507"
+      },
+      {
+        "name": "EV3 Intelligent Brick",
+        "price": "$224.95",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/ev3-intelligent-brick-45500"
+      },
+      {
+        "name": "EV3 Rechargeable DC Battery",
+        "price": "$99.95",
+        "rating": "3.6",
+        "link": "https://www.lego.com/en-us/product/ev3-rechargeable-dc-battery-45501"
+      },
+      {
+        "name": "EV3 Color Sensor",
+        "price": "$49.95",
+        "rating": "3.7",
+        "link": "https://www.lego.com/en-us/product/ev3-color-sensor-45506"
+      },
+      {
+        "name": "EV3 Cable Pack",
+        "price": "$24.95",
+        "link": "https://www.lego.com/en-us/product/ev3-cable-pack-45514"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Minecraft®",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt21086a3df838a824/minecraft_logo_pos_100h.png?format=png&height=35&dpr=1",
+      "description": "Stimulate children’s creativity with LEGO® Minecraft®, based on the best-selling online game. Brick by brick, the amazing world of Minecraft® with its unique characters and landscapes is recreated here in LEGO bricks, so children can create their own exciting Minecraft® stories.",
+      "link": "https://www.lego.com/en-us/themes/minecraft"
+    },
+    "products": [
+      {
+        "name": "The Sky Tower",
+        "price": "$59.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/the-sky-tower-21173"
+      },
+      {
+        "name": "The Ruined Portal",
+        "price": "$29.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/the-ruined-portal-21172"
+      },
+      {
+        "name": "The Modern Treehouse",
+        "price": "$119.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/the-modern-treehouse-21174"
+      },
+      {
+        "name": "The Crafting Box 3.0",
+        "price": "$69.99",
+        "rating": "3.7",
+        "link": "https://www.lego.com/en-us/product/the-crafting-box-3-0-21161"
+      },
+      {
+        "name": "The First Adventure",
+        "price": "$69.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/the-first-adventure-21169"
+      },
+      {
+        "name": "The Illager Raid",
+        "price": "$59.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/the-illager-raid-21160"
+      },
+      {
+        "name": "The Pig House",
+        "price": "$49.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/the-pig-house-21170"
+      },
+      {
+        "name": "The Jungle Abomination",
+        "price": "$39.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/the-jungle-abomination-21176"
+      },
+      {
+        "name": "The Redstone Battle",
+        "price": "$39.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/the-redstone-battle-21163"
+      },
+      {
+        "name": "The Warped Forest",
+        "price": "$29.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/the-warped-forest-21168"
+      },
+      {
+        "name": "The \"Abandoned\" Mine",
+        "price": "$19.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/the-abandoned-mine-21166"
+      },
+      {
+        "name": "The Bee Farm",
+        "price": "$19.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/the-bee-farm-21165"
+      },
+      {
+        "name": "The End Battle",
+        "price": "$19.99",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/the-end-battle-21151"
+      },
+      {
+        "name": "The Horse Stable",
+        "price": "$19.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/the-horse-stable-21171"
+      },
+      {
+        "name": "The Trading Post",
+        "price": "$19.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/the-trading-post-21167"
+      },
+      {
+        "name": "The Coral Reef",
+        "price": "$9.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/the-coral-reef-21164"
+      },
+      {
+        "name": "The Taiga Adventure",
+        "price": "$9.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/the-taiga-adventure-21162"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Minifigures",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/bltf823148ef1b00145/minifigures_logo_pos_100h.png?format=png&height=35&dpr=1",
+      "description": "LEGO® Minifigures are an ideal way to treat your child. Each mystery bag contains a minifigure and accessories, but they won’t know which one they’re getting until they open them up and find out. Your child will love meeting them and trading duplicate models with their friends. Which one will they get?",
+      "link": "https://www.lego.com/en-us/themes/minifigures"
+    },
+    "products": [
+
+    ]
+  },
+  {
+    "description": {
+      "name": "Minions",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt7e7fea3da6df2f79/minion_logo_pos_100h.png?format=png&height=35&dpr=1",
+      "description": "Bring Gru’s lovable henchmen to life with new Minions playsets.",
+      "link": "https://www.lego.com/en-us/themes/minions"
+    },
+    "products": [
+
+    ]
+  },
+  {
+    "description": {
+      "name": "Monkie Kid™",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt85ba91c60bcfd5d8/monkieKid_logo_pos_100h.png?format=png&height=35&dpr=1",
+      "description": "Deliver playful adventures with new Monkie Kid sets.",
+      "link": "https://www.lego.com/en-us/themes/monkie-kid"
+    },
+    "products": [
+      {
+        "name": "Monkie Kid's RC Race",
+        "price": "$12.99",
+        "link": "https://www.lego.com/en-us/product/monkie-kid-s-rc-race-40472"
+      },
+      {
+        "name": "Monkey King",
+        "price": "$9.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/monkey-king-40381"
+      },
+      {
+        "name": "The Legendary Flower Fruit Mountain",
+        "price": "$169.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/the-legendary-flower-fruit-mountain-80024"
+      },
+      {
+        "name": "Monkie Kid's Team Dronecopter",
+        "price": "$149.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/monkie-kid-s-team-dronecopter-80023"
+      },
+      {
+        "name": "The Flaming Foundry",
+        "price": "$139.99",
+        "rating": "3.5",
+        "link": "https://www.lego.com/en-us/product/the-flaming-foundry-80016"
+      },
+      {
+        "name": "Spider Queen’s Arachnoid Base",
+        "price": "$119.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/spider-queen-s-arachnoid-base-80022"
+      },
+      {
+        "name": "The Bone Demon",
+        "price": "$119.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/the-bone-demon-80028"
+      },
+      {
+        "name": "Monkie Kid's Lion Guardian",
+        "price": "$79.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/monkie-kid-s-lion-guardian-80021"
+      },
+      {
+        "name": "Monkie Kid's Cloud Roadster",
+        "price": "$69.99",
+        "rating": "3.7",
+        "link": "https://www.lego.com/en-us/product/monkie-kid-s-cloud-roadster-80015"
+      },
+      {
+        "name": "Sandy's Speedboat",
+        "price": "$59.99",
+        "rating": "3.5",
+        "link": "https://www.lego.com/en-us/product/sandy-s-speedboat-80014"
+      },
+      {
+        "name": "Sandy's Power Loader Mech",
+        "price": "$54.99",
+        "link": "https://www.lego.com/en-us/product/sandy-s-power-loader-mech-80025"
+      },
+      {
+        "name": "White Dragon Horse Jet",
+        "price": "$49.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/white-dragon-horse-jet-80020"
+      },
+      {
+        "name": "Red Son's Inferno Jet",
+        "price": "$34.99",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/red-son-s-inferno-jet-80019"
+      },
+      {
+        "name": "Monkie Kid’s Cloud Bike",
+        "price": "$24.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/monkie-kid-s-cloud-bike-80018"
+      },
+      {
+        "name": "Monkie Kid’s Team Secret HQ",
+        "price": "$169.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/monkie-kid-s-team-secret-hq-80013"
+      },
+      {
+        "name": "Monkey King Warrior Mech",
+        "price": "$149.99",
+        "rating": "4.6",
+        "link": "https://www.lego.com/en-us/product/monkey-king-warrior-mech-80012"
+      },
+      {
+        "name": "Monkie Kid’s Cloud Jet",
+        "price": "$59.99",
+        "rating": "4.5",
+        "link": "https://www.lego.com/en-us/product/monkie-kid-s-cloud-jet-80008"
+      },
+      {
+        "name": "Pigsy’s Noodle Tank",
+        "price": "$59.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/pigsy-s-noodle-tank-80026"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "NINJAGO®",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/bltb87ec277bae0da77/ninjago-logo-neg_2021-100h.png?format=png&height=35&dpr=1",
+      "description": "LEGO® Ninjago™ is an exciting world of ninjas battling against the forces of evil. Your child will enjoy meeting their heroes and role-playing their exciting and varied adventures. In addition, they can play out the hit TV series and play against their friends in a battle to become the Master of Spinjitzu!",
+      "link": "https://www.lego.com/en-us/themes/ninjago"
+    },
+    "products": [
+      {
+        "name": "NINJAGO® City Gardens",
+        "price": "$299.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/ninjago-city-gardens-71741"
+      },
+      {
+        "name": "Hydro Bounty",
+        "price": "$129.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/hydro-bounty-71756"
+      },
+      {
+        "name": "Catamaran Sea Battle",
+        "price": "$69.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/catamaran-sea-battle-71748"
+      },
+      {
+        "name": "Zane's Titan Mech Battle",
+        "price": "$59.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/zane-s-titan-mech-battle-71738"
+      },
+      {
+        "name": "The Keepers' Village",
+        "price": "$49.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/the-keepers-village-71747"
+      },
+      {
+        "name": "Boulder Blaster",
+        "price": "$39.99",
+        "rating": "4.8",
+        "link": "https://www.lego.com/en-us/product/boulder-blaster-71736"
+      },
+      {
+        "name": "Overlord Dragon",
+        "price": "$29.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/overlord-dragon-71742"
+      },
+      {
+        "name": "Lord Garmadon's Mega Weapon",
+        "price": "$19.99",
+        "link": "https://www.lego.com/en-us/product/lord-garmadon-s-mega-weapon-854076"
+      },
+      {
+        "name": "Character Encyclopedia",
+        "price": "$19.99",
+        "link": "https://www.lego.com/en-us/product/character-encyclopedia-5006881"
+      },
+      {
+        "name": "LEGO® NINJAGO® Visual Dictionary New Edition",
+        "price": "$21.99",
+        "link": "https://www.lego.com/en-us/product/lego-ninjago-visual-dictionary-new-edition-5006266"
+      },
+      {
+        "name": "LEGO® NINJAGO® Choose Your Ninja Mission",
+        "price": "$19.99",
+        "link": "https://www.lego.com/en-us/product/lego-ninjago-choose-your-ninja-mission-5006256"
+      },
+      {
+        "name": "Jay Key Chain",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/jay-keyring-853996"
+      },
+      {
+        "name": "Lloyd Key Chain",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/lloyd-keyring-853997"
+      },
+      {
+        "name": "Temple of the Endless Sea",
+        "price": "$99.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/temple-of-the-endless-sea-71755"
+      },
+      {
+        "name": "Skull Sorcerer's Dragon",
+        "price": "$79.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/skull-sorcerer-s-dragon-71721"
+      },
+      {
+        "name": "Ultra Sonic Raider",
+        "price": "$79.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/ultra-sonic-raider-71739"
+      },
+      {
+        "name": "Water Dragon",
+        "price": "$69.99",
+        "rating": "4.9",
+        "link": "https://www.lego.com/en-us/product/water-dragon-71754"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Power Functions",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt501be36455761b04/power-functions--201606--gl--logo.png?format=png&height=35&dpr=1",
+      "description": "Bring your LEGO® MINDSTORMS® robot to life or power a custom Technic creation with movable parts using Power Functions.",
+      "link": "https://www.lego.com/en-us/themes/power-functions"
+    },
+    "products": [
+      {
+        "name": "Transformer 10V DC",
+        "price": "$34.95",
+        "rating": "3",
+        "link": "https://www.lego.com/en-us/product/transformer-10v-dc-45517"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Powered UP",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt9958ac38f87cc89b/poweredup_logo_horz_pos_100h.png?format=png&height=35&dpr=1",
+      "description": "Motorize LEGO® sets and increase their play value with Powered UP functions.",
+      "link": "https://www.lego.com/en-us/themes/powered-up"
+    },
+    "products": [
+      {
+        "name": "Grand Piano",
+        "price": "$349.99",
+        "rating": "4.4",
+        "link": "https://www.lego.com/en-us/product/grand-piano-21323"
+      },
+      {
+        "name": "Haunted House",
+        "price": "$249.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/haunted-house-10273"
+      },
+      {
+        "name": "Technic™ Hub",
+        "price": "$89.99",
+        "rating": "2.3",
+        "link": "https://www.lego.com/en-us/product/technic-hub-88012"
+      },
+      {
+        "name": "Technic™ Large Motor",
+        "price": "$39.99",
+        "rating": "3",
+        "link": "https://www.lego.com/en-us/product/technic-large-motor-88013"
+      },
+      {
+        "name": "Remote Control",
+        "price": "$22.99",
+        "rating": "2.3",
+        "link": "https://www.lego.com/en-us/product/remote-control-88010"
+      },
+      {
+        "name": "Medium Linear Motor",
+        "price": "$16.99",
+        "rating": "2.8",
+        "link": "https://www.lego.com/en-us/product/medium-linear-motor-88008"
+      },
+      {
+        "name": "Simple Medium Linear Motor",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/simple-medium-linear-motor-45303"
+      },
+      {
+        "name": "Color & Distance Sensor",
+        "price": "$13.99",
+        "rating": "3.8",
+        "link": "https://www.lego.com/en-us/product/color-distance-sensor-88007"
+      },
+      {
+        "name": "Light",
+        "price": "$9.99",
+        "rating": "3.8",
+        "link": "https://www.lego.com/en-us/product/light-88005"
+      },
+      {
+        "name": "Medium Angular Motor",
+        "price": "$39.99",
+        "link": "https://www.lego.com/en-us/product/medium-angular-motor-88018"
+      },
+      {
+        "name": "Passenger Train",
+        "price": "$159.99",
+        "rating": "4.1",
+        "link": "https://www.lego.com/en-us/product/passenger-train-60197"
+      },
+      {
+        "name": "Cargo Train",
+        "price": "$229.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/cargo-train-60198"
+      },
+      {
+        "name": "BOOST Creative Toolbox",
+        "price": "$159.99",
+        "rating": "3.5",
+        "link": "https://www.lego.com/en-us/product/boost-creative-toolbox-17101"
+      },
+      {
+        "name": "Move Hub",
+        "price": "$79.99",
+        "rating": "3.2",
+        "link": "https://www.lego.com/en-us/product/move-hub-88006"
+      },
+      {
+        "name": "Hub",
+        "price": "$49.99",
+        "rating": "2.5",
+        "link": "https://www.lego.com/en-us/product/hub-88009"
+      },
+      {
+        "name": "Technic™ XL Motor",
+        "price": "$39.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/technic-xl-motor-88014"
+      },
+      {
+        "name": "Train Motor",
+        "price": "$13.99",
+        "rating": "4.2",
+        "link": "https://www.lego.com/en-us/product/train-motor-88011"
+      },
+      {
+        "name": "Disney Train and Station",
+        "price": "$329.99",
+        "rating": "4.2",
+        "link": "https://www.lego.com/en-us/product/disney-train-and-station-71044"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "SERIOUS PLAY®",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt037e8cb80daf39ee/serious_logo_pos_100h.png?format=png&height=35&dpr=1",
+      "description": "LEGO® SERIOUS PLAY® is an innovative, experiential process designed to enhance innovation and business performance. Based on research which shows that this kind of hands-on, minds-on learning produces a deeper, more meaningful understanding of the world and its possibilities, LEGO SERIOUS PLAY® deepens the process of reflection and supports an effective dialogue – for everyone in the organisation.",
+      "link": "https://www.lego.com/en-us/themes/serious-play"
+    },
+    "products": [
+      {
+        "name": "Identity and Landscape Kit",
+        "price": "$789.99",
+        "rating": "4",
+        "link": "https://www.lego.com/en-us/product/identity-and-landscape-kit-2000430"
+      },
+      {
+        "name": "Window Exploration Bag",
+        "price": "$484.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/window-exploration-bag-2000409"
+      },
+      {
+        "name": "Connections Kit",
+        "price": "$754.99",
+        "rating": "3.4",
+        "link": "https://www.lego.com/en-us/product/connections-kit-2000431"
+      },
+      {
+        "name": "Starter Kit",
+        "price": "$36.99",
+        "rating": "4.1",
+        "link": "https://www.lego.com/en-us/product/starter-kit-2000414"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "Speed Champions",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/bltc455600a911c9172/speedChampions_logo_white_100h.png?format=png&height=35&dpr=1",
+      "description": "LEGO® Speed Champions puts children in the driving seat as they race cars by the likes of McLaren, Porsche and Ferrari. Prepare cars to race and swerve around other drivers to take the chequered flag! Help them live out racing dreams with these authentic and super-fast cars.",
+      "link": "https://www.lego.com/en-us/themes/speed-champions"
+    },
+    "products": [
+
+    ]
+  },
+  {
+    "description": {
+      "name": "Spider-Man",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blta137475bed0da7b2/spiderman_marvel_logo_pos_300w.png?format=png&height=35&dpr=1",
+      "description": "Calling all web-slingers, we have Spider-Man sets for every age. Builders will love to use their spidey sense to fight crime with their favorite superhero.",
+      "link": "https://www.lego.com/en-us/themes/lego-spider-man"
+    },
+    "products": [
+
+    ]
+  },
+  {
+    "description": {
+      "name": "Star Wars™",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/bltc55693f0b8cc3375/starWars_logo_pos_300w.png?format=png&height=35&dpr=1",
+      "description": "From a galaxy far, far away... come LEGO® Star Wars™ large-scale figures. Children can replay epic battles between the forces of good and evil, with Lightsabres, blasters and lots of other cool weapons. Their favourite Star Wars™ characters are robust and easy to build, so battles last longer!",
+      "link": "https://www.lego.com/en-us/themes/star-wars"
+    },
+    "products": [
+
+    ]
+  },
+  {
+    "description": {
+      "name": "Stranger Things",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt5263e797537376bc/Stranger-Things-logo.png?format=png&height=35&dpr=1",
+      "description": "Immerse yourself in the world of LEGO® Stranger Things. With this detailed set inspired by the hit Netflix original series, discover the popular characters and authentic details that you will recognize from the retro 1980s universe.",
+      "link": "https://www.lego.com/en-us/themes/stranger-things"
+    },
+    "products": [
+
+    ]
+  },
+  {
+    "description": {
+      "name": "Technic™",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt76e937a89531c42c/technic_logo_pos_100h.png?format=png&height=35&dpr=1",
+      "description": "LEGO® Technic provides a real challenge for experienced LEGO builders. With LEGO Technic elements, your child can build advanced, real-life functions like gearboxes, working piston engines, steering systems and working crane arms. These exciting sets will take their imaginations to the next level.",
+      "link": "https://www.lego.com/en-us/themes/technic"
+    },
+    "products": [
+
+    ]
+  },
+  {
+    "description": {
+      "name": "Trolls World Tour",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt05cfdbee5e649a9e/trolls_logo.png?format=png&height=35&dpr=1",
+      "description": "Open up a world of music and adventure for Trolls fans with colorful and playful sets that bring characters from the DreamWorks films to life. With sets that inspire the imagination and offer kids endless possibilities for role-play, LEGO® Trolls World Tour sets are sure to delight and entertain Trolls fans of all ages.",
+      "link": "https://www.lego.com/en-us/themes/trolls"
+    },
+    "products": [
+      {
+        "name": "Branch Key Chain",
+        "price": "$5.99",
+        "link": "https://www.lego.com/en-us/product/branch-keyring-854004"
+      },
+      {
+        "name": "Vibe City Concert",
+        "price": "$59.99",
+        "rating": "5",
+        "link": "https://www.lego.com/en-us/product/vibe-city-concert-41258"
+      },
+      {
+        "name": "Pop Village Celebration",
+        "price": "$49.99",
+        "rating": "4.3",
+        "link": "https://www.lego.com/en-us/product/pop-village-celebration-41255"
+      },
+      {
+        "name": "Volcano Rock City Concert",
+        "price": "$39.99",
+        "rating": "4.2",
+        "link": "https://www.lego.com/en-us/product/volcano-rock-city-concert-41254"
+      },
+      {
+        "name": "Poppy's Hot Air Balloon Adventure",
+        "price": "$29.99",
+        "rating": "4.7",
+        "link": "https://www.lego.com/en-us/product/poppy-s-hot-air-balloon-adventure-41252"
+      },
+      {
+        "name": "Poppy's Pod",
+        "price": "$19.99",
+        "rating": "4.2",
+        "link": "https://www.lego.com/en-us/product/poppy-s-pod-41251"
+      }
+    ]
+  },
+  {
+    "description": {
+      "name": "VIDIYO™",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/bltc2871af14f16dc2f/VIDIYO_100h.png?format=png&height=35&dpr=1",
+      "description": "Drop a beat! VIDIYO is an exciting digital play experience in collaboration with Universal Music Group that lets kids bring their original music video creations to life using the songs they like from the artists they love.",
+      "link": "https://www.lego.com/en-us/themes/vidiyo"
+    },
+    "products": [
+
+    ]
+  },
+  {
+    "description": {
+      "name": "Xtra",
+      "logo": "https://www.lego.com/cdn/cs/set/assets/blt0890559ed3133603/xtra--2018--gl--logo.png?format=png&height=35&dpr=1",
+      "description": "Enhance any build with LEGO® accessories sets in categories like sports accessories, food accessories and more. Each Xtra pack contains extra LEGO pieces and themed elements perfect for play or display.",
+      "link": "https://www.lego.com/en-us/themes/xtra"
+    },
+    "products": [
+
+    ]
+  }
+]
