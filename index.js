@@ -4,32 +4,30 @@ const cheerio = require('cheerio');
 const express = require('express');
 const fs = require('fs');
 const {load} = require("cheerio");
-
+const nodeSchedule = require('node-schedule');
+const {json} = require("express");
 const app = express();
+
 const url = 'https://www.lego.com/en-us/themes/';
 
+
+let categories
+
 app.get('/themes', (req, res) => {
-    let categories = [];
-    axios(url)
-        .then((response) => readThemePage(response.data, categories))
-        .then(() => loadAllCategories(categories))
-        .then(() => {
-            res.statusCode = 200;
-            res.json(categories);
-        });
+    res.json(categories)
 });
 
 app.get('/themes/:themeName/products', (req, res) => {
-    let products = [];
-    loadProducts(url + req.params.themeName, products)
-        .then(() => {
-            res.json(products);
-        })
-        .catch((error) => {
-            res.status(400);
-            res.send("Bad request");
-            console.log(error)
-        });
+    var category = categories.filter(obj => {
+        return obj.description.name.toLowerCase() === req.params.themeName.toLowerCase()
+    })
+    res.json(category)
+});
+
+app.get('/', (req, res) => {
+    fs.readFile("./data/IntroductionText.txt", 'utf8', (err, t) => {
+        res.json(t)
+    })
 });
 
 function readThemePage(data, categories) {
@@ -49,7 +47,15 @@ function readThemePage(data, categories) {
     }
 }
 
+function loadEverything() {
+    categories = []
+    axios(url)
+        .then((response) => readThemePage(response.data, categories))
+        .then(() => loadAllCategories(categories));
+}
+
 function loadAllCategories(categories, callback) {
+
     const promises = [];
     for (let i = 0; i < categories.length; i++) {
         promises.push(loadProducts(categories[i].description.link, categories[i].products));
@@ -58,6 +64,7 @@ function loadAllCategories(categories, callback) {
 }
 
 function loadProducts(url, products) {
+
     return axios(url).then((inp) => {
         loadItems(inp.data, products)
     });
@@ -74,4 +81,10 @@ function loadItems(html, products) {
     });
 }
 
+nodeSchedule.scheduleJob('0 0 00 * * *', function () {
+    loadEverything();
+    console.log("Trigger")
+})
+
 app.listen(PORT, () => console.log('Server running on port ' + PORT));
+loadEverything();

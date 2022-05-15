@@ -1,0 +1,1 @@
+Welcome to my Lego Themes and product web api! If you wish to see all data, navigate to '/themes'. If you wish to see all products for specific theme, navigate to '/themes/{Name of the theme} - for example: 'themes/Architecture' The requests may take a longer time due to screen scraping big amount of websites so be patient :) Have a nice day!
